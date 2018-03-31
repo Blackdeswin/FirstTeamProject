@@ -1,0 +1,24 @@
+2018-03-31 14:42:20 jdbc[12]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "ARTICLE" не найдена
+Table "ARTICLE" not found; SQL statement:
+select article0_.id as id1_0_, article0_.content as content2_0_, article0_.creation_timestamp as creation3_0_, article0_.title as title4_0_ from article article0_ [42102-196]
+2018-03-31 14:42:22 jdbc[12]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "ARTICLE" не найдена
+Table "ARTICLE" not found; SQL statement:
+select article0_.id as id1_0_, article0_.content as content2_0_, article0_.creation_timestamp as creation3_0_, article0_.title as title4_0_ from article article0_ [42102-196]
+2018-03-31 14:42:28 jdbc[12]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "ARTICLE" не найдена
+Table "ARTICLE" not found; SQL statement:
+select article0_.id as id1_0_, article0_.content as content2_0_, article0_.creation_timestamp as creation3_0_, article0_.title as title4_0_ from article article0_ [42102-196]
+2018-03-31 14:42:49 jdbc[12]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "ARTICLE" не найдена
+Table "ARTICLE" not found; SQL statement:
+select article0_.id as id1_0_, article0_.content as content2_0_, article0_.creation_timestamp as creation3_0_, article0_.title as title4_0_ from article article0_ [42102-196]
+2018-03-31 14:42:56 jdbc[12]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "ARTICLE" не найдена
+Table "ARTICLE" not found; SQL statement:
+select article0_.id as id1_0_, article0_.content as content2_0_, article0_.creation_timestamp as creation3_0_, article0_.title as title4_0_ from article article0_ [42102-196]
+2018-03-31 14:43:17 jdbc[12]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "ARTICLE" не найдена
+Table "ARTICLE" not found; SQL statement:
+select article0_.id as id1_0_, article0_.content as content2_0_, article0_.creation_timestamp as creation3_0_, article0_.title as title4_0_ from article article0_ [42102-196]
